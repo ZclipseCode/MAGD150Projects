@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# MAGD 150 Examples
+This is a repository for MAGD 150
 
-You can use the [editor on GitHub](https://github.com/ZclipseCode/MAGD150Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+## 3D City
+[Source Code](https://github.com/ZclipseCode/MAGD150Projects/tree/gh-pages/f21magd150lab10_Michael)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[HTML](https://github.com/ZclipseCode/MAGD150Projects/blob/gh-pages/f21magd150lab10_Michael/index.html)
 
-### Markdown
+## Reflection
+[Source Code](https://github.com/ZclipseCode/MAGD150Projects/tree/gh-pages/f21magd150lab09_Michael)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[HTML](https://github.com/ZclipseCode/MAGD150Projects/blob/gh-pages/f21magd150lab09_Michael/index.html)
 
-```markdown
-Syntax highlighted code block
+## *The Click* Movie Poster
+[Source Code](https://github.com/ZclipseCode/MAGD150Projects/tree/gh-pages/f21magd150_lab08_Michael)
 
-# Header 1
-## Header 2
-### Header 3
+[HTML](https://github.com/ZclipseCode/MAGD150Projects/blob/gh-pages/f21magd150_lab08_Michael/index.html)
 
-- Bulleted
-- List
+## Falling Leaf
+[Source Code](https://github.com/ZclipseCode/MAGD150Projects/tree/gh-pages/f21magd150lab07_Michael)
 
-1. Numbered
-2. List
+[HTML](https://github.com/ZclipseCode/MAGD150Projects/blob/gh-pages/f21magd150lab07_Michael/index.html)
 
-**Bold** and _Italic_ and `Code` text
+## Classic Alien
+[Source Code](https://github.com/ZclipseCode/MAGD150Projects/tree/gh-pages/f21magd150lab06_Michael)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZclipseCode/MAGD150Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[HTML](https://github.com/ZclipseCode/MAGD150Projects/blob/gh-pages/f21magd150lab06_Michael/index.html)
